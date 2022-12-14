@@ -1,4 +1,4 @@
-# PC2_Tugas3_201401141
+# PC2_UAS_201401141
 ### Lidya Gabriella Tarigan
 ### PC 2
 
